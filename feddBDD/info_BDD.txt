@@ -1,0 +1,18 @@
+ user: 'feed_incident',
+  host: 'localhost',
+  database: 'feed_incident',
+  password: 'feed_incident',
+  port: 5432,
+
+Zone de création de incident:
+Canton de Limay
+49.041817, 1.819600
+
+Bruyères-le-Châtel
+48.624716 , 2.185420
+
+Canton de Mitry-Mory
+49.022544 , 2.69855
+
+Evry-Grégy-sur-Yerre
+48.668955 , 2.636163
